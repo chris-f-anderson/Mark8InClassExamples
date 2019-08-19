@@ -1,0 +1,11 @@
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\bin\Debug\netcoreapp2.1\AM8-8-19.deps.json
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\bin\Debug\netcoreapp2.1\AM8-8-19.runtimeconfig.json
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\bin\Debug\netcoreapp2.1\AM8-8-19.runtimeconfig.dev.json
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\bin\Debug\netcoreapp2.1\AM8-8-19.dll
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\bin\Debug\netcoreapp2.1\AM8-8-19.pdb
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\obj\Debug\netcoreapp2.1\AM8-8-19.csprojAssemblyReference.cache
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\obj\Debug\netcoreapp2.1\AM8-8-19.csproj.CoreCompileInputs.cache
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\obj\Debug\netcoreapp2.1\AM8-8-19.AssemblyInfoInputs.cache
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\obj\Debug\netcoreapp2.1\AM8-8-19.AssemblyInfo.cs
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\obj\Debug\netcoreapp2.1\AM8-8-19.dll
+C:\Users\Flint Anderson\Desktop\True Coders\Repos_Repository\inClassPractice\AM8-8-19\AM8-8-19\obj\Debug\netcoreapp2.1\AM8-8-19.pdb
